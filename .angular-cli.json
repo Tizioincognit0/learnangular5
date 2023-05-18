@@ -56,8 +56,5 @@
   "defaults": {
     "styleExt": "css",
     "component": {}
-  },
-  "cli": {
-    "analytics": "e44825a7-76df-4a49-a1ae-b5bea5ea7397"
   }
 }
